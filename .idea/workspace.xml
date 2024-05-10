@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="calisma2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/ICalisma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/MakineMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/PcMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/AgeUserCheckService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/ComplexUserCheckService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/IUserCheckService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/SignUpManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterfaceRealLife/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programYurtDisiCikis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programYurtDisiCikis/Yolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programYurtDisiCikis/YurtDisiKurallari.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="Interface">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Daire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Kare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Sekil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/IMuhendis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/IMuhendis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,13 +65,26 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/korkm/IdeaProjects/Java_Core/src/main/java/com/nazankorkmaz/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.nazankorkmaz.programInterfaceRealLife.Main">
+  <component name="RunManager" selected="Application.com.nazankorkmaz.programAbstract.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programInterface.Main" />
       <module name="Java_Core.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nazankorkmaz.programInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.nazankorkmaz.programAbstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programAbstract.Main" />
+      <module name="Java_Core.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nazankorkmaz.programAbstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.nazankorkmaz.programPolymorphizm.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programPolymorphizm.Main" />
-      <module name="Java_Core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.programPolymorphizm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.nazankorkmaz.programYurtDisiCikis.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programYurtDisiCikis.Main" />
       <module name="Java_Core.main" />
@@ -144,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.nazankorkmaz.programAbstract.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programInterfaceRealLife.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programYurtDisiCikis.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programBeyblade.Test" />
-        <item itemvalue="Application.com.nazankorkmaz.programPolymorphizm.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,14 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715287822406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Interface">
+      <option name="closed" value="true" />
+      <created>1715348342833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715348342833</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java core1" />
     <MESSAGE value="calisanlar main" />
     <MESSAGE value="calisma2" />
-    <option name="LAST_COMMIT_MESSAGE" value="calisma2" />
+    <MESSAGE value="Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
