@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="hafiza oyunu Kart ve Main tamamlandi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/ArrayListler/Main.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="ArrayListler eklendi.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Sarkicilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,20 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.nazankorkmaz.ArrayListler.Main">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.SingersProject.Test" />
+      <module name="Java_Core.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nazankorkmaz.SingersProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.nazankorkmaz.ArrayListler.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.ArrayListler.Main" />
       <module name="Java_Core.main" />
@@ -117,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.nazankorkmaz.programYurtDisiCikis.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programYurtDisiCikis.Main" />
-      <module name="Java_Core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.programYurtDisiCikis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.com.nazankorkmaz.ArrayListler.Main" />
         <item itemvalue="Application.com.nazankorkmaz.HafizaOyunu.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programAbstract.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programInterfaceRealLife.Main" />
-        <item itemvalue="Application.com.nazankorkmaz.programYurtDisiCikis.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739720182788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ArrayListler eklendi.">
+      <option name="closed" value="true" />
+      <created>1739729795329</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739729795330</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +236,8 @@
     <MESSAGE value="Abstract" />
     <MESSAGE value="hafiza oyunu commit" />
     <MESSAGE value="hafiza oyunu Kart ve Main tamamlandi" />
-    <option name="LAST_COMMIT_MESSAGE" value="hafiza oyunu Kart ve Main tamamlandi" />
+    <MESSAGE value="ArrayListler eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayListler eklendi." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
