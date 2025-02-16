@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="hafiza oyunu commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/HafizaOyunu/Main.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="hafiza oyunu Kart ve Main tamamlandi">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/ArrayListler/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/HafizaOyunu/Kart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/HafizaOyunu/Kart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +64,13 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.nazankorkmaz.HafizaOyunu.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programInterface.Main" />
+  <component name="RunManager" selected="Application.com.nazankorkmaz.ArrayListler.Main">
+    <configuration name="com.nazankorkmaz.ArrayListler.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.ArrayListler.Main" />
       <module name="Java_Core.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.programInterface.*" />
+          <option name="PATTERN" value="com.nazankorkmaz.ArrayListler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.nazankorkmaz.ArrayListler.Main" />
         <item itemvalue="Application.com.nazankorkmaz.HafizaOyunu.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programAbstract.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programInterfaceRealLife.Main" />
         <item itemvalue="Application.com.nazankorkmaz.programYurtDisiCikis.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739717336608</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hafiza oyunu Kart ve Main tamamlandi">
+      <option name="closed" value="true" />
+      <created>1739720182788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739720182788</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +226,8 @@
     <MESSAGE value="Interface" />
     <MESSAGE value="Abstract" />
     <MESSAGE value="hafiza oyunu commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="hafiza oyunu commit" />
+    <MESSAGE value="hafiza oyunu Kart ve Main tamamlandi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hafiza oyunu Kart ve Main tamamlandi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
