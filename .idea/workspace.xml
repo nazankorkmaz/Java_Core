@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="Interface">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programAbstract/Sekil.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="Abstract">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715348342833</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Abstract">
+      <option name="closed" value="true" />
+      <created>1715355532028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715355532032</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +195,8 @@
     <MESSAGE value="calisanlar main" />
     <MESSAGE value="calisma2" />
     <MESSAGE value="Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
+    <MESSAGE value="Abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
