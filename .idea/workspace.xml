@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="ArrayListler eklendi.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Sarkicilar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Test.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="Sarkici projesi ArrayList eklendi.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/SwingOrnek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +56,46 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Java_Core [:Main.main()].executor": "Run",
+    "Gradle.Java_Core [:SwingOrnek.main()].executor": "Run",
     "Gradle.Java_Core [:Test.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/korkm/IdeaProjects/Java_Core/src/main/java/com/nazankorkmaz/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.LinkedList.Main" />
+      <module name="Java_Core.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nazankorkmaz.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingOrnek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.SingersProject.SwingOrnek" />
+      <module name="Java_Core.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nazankorkmaz.SingersProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.SingersProject.Test" />
       <module name="Java_Core.main" />
@@ -105,39 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.nazankorkmaz.programAbstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programAbstract.Main" />
-      <module name="Java_Core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.programAbstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.nazankorkmaz.programInterfaceRealLife.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.programInterfaceRealLife.Main" />
-      <module name="Java_Core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.programInterfaceRealLife.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SwingOrnek" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.com.nazankorkmaz.ArrayListler.Main" />
         <item itemvalue="Application.com.nazankorkmaz.HafizaOyunu.Main" />
-        <item itemvalue="Application.com.nazankorkmaz.programAbstract.Main" />
-        <item itemvalue="Application.com.nazankorkmaz.programInterfaceRealLife.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739729795330</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sarkici projesi ArrayList eklendi.">
+      <option name="closed" value="true" />
+      <created>1739733149790</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739733149791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +249,8 @@
     <MESSAGE value="hafiza oyunu commit" />
     <MESSAGE value="hafiza oyunu Kart ve Main tamamlandi" />
     <MESSAGE value="ArrayListler eklendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayListler eklendi." />
+    <MESSAGE value="Sarkici projesi ArrayList eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sarkici projesi ArrayList eklendi." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
