@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="abstract class geometrik sekil olusturma eklendi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/upDownCasting/Main.java" afterDir="false" />
+    <list default="true" id="8b98cfa1-2c01-4b28-a508-c98c61a37004" name="Changes" comment="upcasting ve downcasting ornegi eklendi.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/SingersProject/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programBilgisayar_Composition/Kasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programBilgisayar_Composition/Kasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programBilgisayar_Composition/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programBilgisayar_Composition/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/PcMuhendisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/programInterface/PcMuhendisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/upDownCasting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nazankorkmaz/upDownCasting/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,26 +73,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.nazankorkmaz.upDownCasting.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.LinkedList.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.upDownCasting.Main" />
       <module name="Java_Core.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwingOrnek (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.SingersProject.SwingOrnek" />
-      <module name="Java_Core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nazankorkmaz.SingersProject.*" />
+          <option name="PATTERN" value="com.nazankorkmaz.upDownCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.nazankorkmaz.upDownCasting.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.upDownCasting.Main" />
+      <module name="Java_Core.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nazankorkmaz.upDownCasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.nazankorkmaz.upDownCasting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nazankorkmaz.upDownCasting.Main" />
       <module name="Java_Core.main" />
@@ -162,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.nazankorkmaz.upDownCasting.Main (2)" />
         <item itemvalue="Application.com.nazankorkmaz.upDownCasting.Main (1)" />
         <item itemvalue="Application.com.nazankorkmaz.upDownCasting.Main" />
         <item itemvalue="Application.com.nazankorkmaz.GeometrikSekil.Main" />
-        <item itemvalue="Application.SwingOrnek (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739778961616</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upcasting ve downcasting ornegi eklendi.">
+      <option name="closed" value="true" />
+      <created>1740599461628</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740599461628</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,7 +315,8 @@
     <MESSAGE value="LinkedListler eklendi." />
     <MESSAGE value="Swing projesi acildi ve butona tiklama ile desktoptan web sayfasi acilimi eklendi." />
     <MESSAGE value="abstract class geometrik sekil olusturma eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract class geometrik sekil olusturma eklendi" />
+    <MESSAGE value="upcasting ve downcasting ornegi eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="upcasting ve downcasting ornegi eklendi." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

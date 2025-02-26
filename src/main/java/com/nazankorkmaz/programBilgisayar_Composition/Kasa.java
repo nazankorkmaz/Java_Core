@@ -15,6 +15,9 @@ public class Kasa {
     public  void bilgisayari_ac(){
         System.out.println("Bilgisayar açılıyor...");
     }
+    private static void bilgisayari_ac2(){
+        System.out.println("Bilgisayar açılıyor2...");
+    }
 
     public String getModel() {
         return model;

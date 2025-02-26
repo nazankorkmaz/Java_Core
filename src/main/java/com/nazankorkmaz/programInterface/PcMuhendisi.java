@@ -48,4 +48,8 @@ public class PcMuhendisi implements  IMuhendis{
             System.out.println(array[i]);
         }
     }
+
+    public void deneme(int a){
+        System.out.println("deneme");
+    }
 }

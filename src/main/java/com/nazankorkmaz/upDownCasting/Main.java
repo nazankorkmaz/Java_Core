@@ -24,5 +24,7 @@ public class Main {
 
         kedi.sesCikar();             // Üst sınıf metoduna erişilir
         kedi.miyavla();              // Alt sınıf metoduna erişilir
+
+
     }
 }

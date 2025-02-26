@@ -82,3 +82,9 @@ public class Test {
         }
     }
 }
+class A extends  Test{
+    public void yeni(){
+        Test.sarkici_ekle();
+
+    }
+}

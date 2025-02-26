@@ -16,7 +16,7 @@ public class Main {
 
         IMuhendis muhendis2 = new PcMuhendisi(true, true);
         //Ama boyle verebilirisin referansini
-
+        // muhendis2.deneme() gelmedi mesela
         // part 2
 
         MakineMuhendisi muhendis3 = new MakineMuhendisi(true, false);
