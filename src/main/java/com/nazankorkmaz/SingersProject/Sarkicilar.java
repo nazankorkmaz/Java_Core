@@ -38,4 +38,9 @@ public class Sarkicilar {
             System.out.println("Sarkıcı bulunamadı....");
         }
     }
+
+    public static void sarkici_ekle2(String  isim){
+
+        System.out.println("Sarkıcı listesi güncellendi...");
+    }
 }

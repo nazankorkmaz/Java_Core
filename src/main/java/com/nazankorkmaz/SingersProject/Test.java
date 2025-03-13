@@ -79,6 +79,8 @@ public class Test {
                     System.out.println("Uygulamadan çıkılıyor....");
                     break;
             }
+
+            Sarkicilar.sarkici_ekle2("staticli olan ");
         }
     }
 }

@@ -6,7 +6,7 @@ public class Ucgen extends Sekil{
     private  int c;
 
     public Ucgen(String isim ,int a,int b, int c) {
-        super(isim);
+        super(isim);   // bunda abstract olmamasına ragmen alabilmis extend oldugu icin
         this.a=a;
         this.b=b;
         this.c=c;

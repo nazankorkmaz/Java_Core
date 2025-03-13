@@ -122,6 +122,8 @@ public class hesapMakinesi {
             else{
                 System.out.println("Ya seçeneklerde o var mı sence ?????");
             }
+
+            hesapMakinesi.bolme(2,5);  // static olması bu işe yarar iste sınıf adıyla cagirabilirsin.
         }
     }
 }

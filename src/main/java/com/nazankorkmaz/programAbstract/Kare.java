@@ -13,4 +13,7 @@ public class Kare extends  Sekil{
     void alan_hesapla() {
         System.out.println(getIsim()+" alanı = "+(kenar*kenar));
     }
+     void  deneme(){
+        System.out.println("deneme");
+    }
 }
